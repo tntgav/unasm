@@ -33,7 +33,7 @@ jmp: jumps to the label specified
 swap: swaps the values of register 1 and register 2
 lbl: makes a label to jump to
 rjmp: jumps to a line
-cope: ends the program
+quit: ends the program
 src: prints the source code of the interpreter
 */
 
