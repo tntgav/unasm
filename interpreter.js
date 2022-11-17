@@ -138,7 +138,7 @@ while (line < code.length) {
         case 'nl':
             process.stdout.write('\n');
             break;
-        case 'eval':
+        case 'jseval':
             //sets r1 to eval(rest)
             r1 = eval(rest);
             break;
